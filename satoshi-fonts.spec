@@ -31,8 +31,6 @@ This package contains the non-variable font version of the Satoshi font.}
 This package contains the variable font version of the Satoshi font.}
  
 Source0: http://download.gnome.org/sources/cantarell-fonts/0.301/cantarell-fonts-%{version}.tar.xz
-Source1: 31-cantarell.conf
-Source2: 31-cantarell-vf.conf
  
 BuildRequires: gettext
 BuildRequires: meson
